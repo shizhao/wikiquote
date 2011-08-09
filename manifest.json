@@ -1,0 +1,20 @@
+{
+  "name": "Wikiquote",
+  "description": "Wikiquote, the free quote compendium that anyone can edit.",
+  "version": "1",
+  "app": {
+    "urls": [
+      "http://*.wikiquote.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.wikiquote.org/"
+    }
+  },
+  "icons": {
+    "128": "Wikiquote-logo.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
